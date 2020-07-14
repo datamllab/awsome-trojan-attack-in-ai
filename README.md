@@ -2,7 +2,7 @@
 
 A curated, but probably biased and incomplete, list of awesome Trojan Attack in AI resources.
 
-If you want to contribute to this list, feel free to pull a request. Also you can contact [Ruixiang Tang](https://scholar.google.com/citations?user=t4OwrwEAAAAJ&hl=en) from the [Data Lab](http://faculty.cs.tamu.edu/xiahu/) at Texas A&M University through email: dumengnan@tamu.edu, or Twitter [@Ruixiang Tang](https://twitter.com/RuixiangT).
+If you want to contribute to this list, feel free to pull a request. Also you can contact [Ruixiang Tang](https://scholar.google.com/citations?user=t4OwrwEAAAAJ&hl=en) from the [Data Lab](http://faculty.cs.tamu.edu/xiahu/) at Texas A&M University through email: rxtang@tamu.edu, or Twitter [@Ruixiang Tang](https://twitter.com/RuixiangT).
 
 
 ## What is Trojan Attack in AI?
