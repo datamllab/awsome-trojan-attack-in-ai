@@ -43,6 +43,12 @@ Restoring Trojan Backdoors in AI Systems](https://arxiv.org/abs/1908.01763)
 * [Defending Neural Backdoors via Generative
 Distribution Modeling](https://arxiv.org/abs/1910.04749)
 
+## Applications in Intellectual Property Protection
+* [Protecting Intellectual Property of Deep Neural
+Networks withWatermarking](https://dl.acm.org/doi/10.1145/3196494.3196550)
+* [Turning Your Weakness Into a Strength:
+Watermarking Deep Neural Networks by Backdooring](https://arxiv.org/abs/1802.04633)
+
 ## Competition
 * [Trojans in Artificial Intelligence (TrojAI)](https://www.iarpa.gov/index.php/research-programs/trojai)
 
