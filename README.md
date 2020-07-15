@@ -14,37 +14,37 @@ phase, an infected model with injected trojan performs normally on original task
 special triggers. 
 
 ## Trojan Attack
-*[An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks](https://arxiv.org/abs/2006.08131)
-*[BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733)
-*[Trojaning Attack on Neural Networks](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2782&context=cstech)
-*[Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning](https://arxiv.org/abs/1712.05526)
-*[Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792)
-*[Model-Reuse Attacks on Deep Learning Systems](https://arxiv.org/abs/1812.00483)
-*[How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
-*[Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation](https://arxiv.org/abs/1808.10307)
-*[Backdooring Convolutional Neural Networks via TargetedWeight Perturbations](https://arxiv.org/abs/1812.03128)
-*[Latent Backdoor Attacks on Deep Neural Networks](https://arxiv.org/abs/1905.10447)
-*[Neural Trojans](https://arxiv.org/abs/1710.00942)
+* [An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks](https://arxiv.org/abs/2006.08131)
+* [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733)
+* [Trojaning Attack on Neural Networks](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2782&context=cstech)
+* [Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning](https://arxiv.org/abs/1712.05526)
+* [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792)
+* [Model-Reuse Attacks on Deep Learning Systems](https://arxiv.org/abs/1812.00483)
+* [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
+* [Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation](https://arxiv.org/abs/1808.10307)
+* [Backdooring Convolutional Neural Networks via TargetedWeight Perturbations](https://arxiv.org/abs/1812.03128)
+* [Latent Backdoor Attacks on Deep Neural Networks](https://arxiv.org/abs/1905.10447)
+* [Neural Trojans](https://arxiv.org/abs/1710.00942)
 
 ## Trojan Defense
-*[Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](http://people.cs.uchicago.edu/~ravenben/publications/abstracts/backdoor-sp19.html)
-*[Detecting Backdoor Attacks on Deep Neural Networks by
+* [Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](http://people.cs.uchicago.edu/~ravenben/publications/abstracts/backdoor-sp19.html)
+* [Detecting Backdoor Attacks on Deep Neural Networks by
 Activation Clustering](https://arxiv.org/abs/1811.03728)
-*[Fine-Pruning: Defending Against Backdooring Attacks
+* [Fine-Pruning: Defending Against Backdooring Attacks
 on Deep Neural Networks](https://arxiv.org/abs/1805.12185)
-*[STRIP: A Defence Against Trojan Attacks on Deep Neural Networks](https://arxiv.org/abs/1902.06531)
-*[Spectral Signatures in Backdoor Attacks](https://arxiv.org/abs/1811.00636)
-*[DeepInspect: A Black-box Trojan Detection and Mitigation Framework for
+* [STRIP: A Defence Against Trojan Attacks on Deep Neural Networks](https://arxiv.org/abs/1902.06531)
+* [Spectral Signatures in Backdoor Attacks](https://arxiv.org/abs/1811.00636)
+* [DeepInspect: A Black-box Trojan Detection and Mitigation Framework for
 Deep Neural Networks](https://www.ijcai.org/Proceedings/2019/647)
-*[ABS: Scanning Neural Networks for Back-doors by
+* [ABS: Scanning Neural Networks for Back-doors by
 Artificial Brain Stimulation](https://www.cs.purdue.edu/homes/taog/docs/CCS19.pdf)
-*[TABOR: A Highly Accurate Approach to Inspecting and
+* [TABOR: A Highly Accurate Approach to Inspecting and
 Restoring Trojan Backdoors in AI Systems](https://arxiv.org/abs/1908.01763)
-*[Defending Neural Backdoors via Generative
+* [Defending Neural Backdoors via Generative
 Distribution Modeling](https://arxiv.org/abs/1910.04749)
 
 ## Competition
-*[Trojans in Artificial Intelligence (TrojAI)](https://www.iarpa.gov/index.php/research-programs/trojai)
+* [Trojans in Artificial Intelligence (TrojAI)](https://www.iarpa.gov/index.php/research-programs/trojai)
 
 
 
